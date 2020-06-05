@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+# About
+I'm a graduate student who researches news coverage of protests/social movements and political satire
 
-You can use the [editor on GitHub](https://github.com/luisloya/luisloya.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Completed Projects
 
-### Markdown
+HAha, I wish
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# In Progress
+
+
+# Just for fun
 
 ```markdown
 Syntax highlighted code block
