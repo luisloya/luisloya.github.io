@@ -1,7 +1,7 @@
 # About
 ![headshot](https://user-images.githubusercontent.com/20567219/83838299-69f6cb00-a6be-11ea-8837-0fca03f6d9f4.png)
 
-I'm a graduate student who researches news coverage of protests/social movements and political satire. Contact me at lloya@wisc.edu and check out my <a href="https://luisloya.github.io/LuisLoya.pdf">online CV</a>.
+I'm a graduate student who researches news coverage of protests/social movements and political satire. Contact me at <a href="lloya@wisc.edu">lloya@wisc.edu</a> and check out my <a href="https://luisloya.github.io/LuisLoya.pdf">online CV</a>.
 
 
 # Completed Projects
