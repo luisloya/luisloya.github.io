@@ -12,6 +12,7 @@ This research project seeks to better understand the topic trends surrounding th
 
 ## #Donatenow!: A computer-assisted analysis of musician’s political engagement on Twitter
 by Lukito, J., Loya, L., Davalos, C., Li, J., & Tong, C
+
 Presented at the Association for Education in Journalism and Mass Communication Annual Conference (2019)
 
 Musicians have historically been one of the most active celebrity groups in terms of discussing
@@ -28,7 +29,9 @@ suggestions for future research.
 
 ## Queer Performances on TikTok
 by Loya, L.  and Almeida, A.
+
 Presented at Communication Crossroads at the University of Wisconsin-Madison (2020)
+
 We completed a descriptive qualitative content analysis analyzing queer performances on TikTok through exploring popular hashtags using keywords: gay, lesbian, transgender, queer, bi. Our analysis builds on extant literature of digital queer experiences, which highlights emerging digital landscapes as active sites of expression, solidarity and connection among queer individuals, particuarly queer youth. Through this study, we use the Communication Theory of Identity  to discuss the various performances of queerness in forming community from shared pain, joy and lust. This study was conducted in the aftermath of TikTok shadowbanning queer content and we discuss how performance and humor serve resiliency roles for queer youths in digital arenas. 
 
 
